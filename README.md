@@ -6,9 +6,6 @@ Material: Unreal, Kinect, Arduino, Blender, Substance Painter, Logic
   
 50 years ago, the enhancement of virtual life enabled human beings to experience a complete social life without having to leaving home, but it brought the degeneration of their limbs to varying degrees gradually. Since it got worse, some people had been sent to sorting. ‘Of no bound’ project, adding Kinect and thumb manipulator to train the muscle flexibility of the player's thumb and arm. The empty personal space makes up for the lack of the real world, through the blue tone watercolor style scene, to adjust the player's nervousness, anxiety, and so on. Reorganizing the chaotic music helps to achieve spiritual healing. By improving physical and mental health, the project helps users to improve the success rate of screening before human-machine surgery.  
 
-## Group Github:  
-https://git.arts.ac.uk/21032233/CCI-AdvanceEnviroment-UE5-Kinect-Ardruino_GuanghanWu-YuweiChen  
-
 
 ## BACKGROUND  
 This project, simulating the research team in 2122, looked back on the virtual world revolution about 50 years ago, and made a rehabilitation design for the degeneration of human limbs after that, to arouse people's awareness of the current, real world.  
