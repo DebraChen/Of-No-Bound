@@ -212,6 +212,6 @@ Then make the data control the player's eyesight and movement control
 
 #### Our Labor Division:
 
-Wu: Technical(UE5 for Game Play Edit, Kinect for motion capture, Arduino Code and Blender for JoyHandle), Contribution = 50%
+Wu: Technical(UE5 for Game Play Edit, Kinect for motion capture, 3D modeling, stylized the environment，UE5 Parameter Adjustment for more beautiful and Blender for Towers in-game), Contribution = 50%
 
-Chen: Artist(Substance-Painter for texture painting, UE5 Parameter Adjustment for more beautiful and Blender for Towers in-game), Contribution = 50%
+Chen: Artist(UE5 for Game Play Edit, Kinect for motion capture, Arduino Code and Blender for JoyHandle，Niagara System, Audio & visual, Substance-Painter for texture painting, UE5 Parameter Adjustment for more beautiful and Blender for Towers in-game), Contribution = 50%
