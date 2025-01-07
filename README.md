@@ -10,12 +10,6 @@ Unreal Engine 5 | Arduino | Azure kinect | 3D printed controller | Blender | Log
 
 [https://youtu.be/e\_DOIYrOQ9U](https://youtu.be/e_DOIYrOQ9U "https://youtu.be/e_DOIYrOQ9U")
 
-#### GitHub Link:
-
-[https://git.arts.ac.uk/21032233/CCI-AdvanceEnviroment-UE5-Kinect-Ardruino\_GuanghanWu-YuweiChen](https://git.arts.ac.uk/21032233/CCI-AdvanceEnviroment-UE5-Kinect-Ardruino_GuanghanWu-YuweiChen "https://git.arts.ac.uk/21032233/CCI-AdvanceEnviroment-UE5-Kinect-Ardruino_GuanghanWu-YuweiChen")
-
-As these files take up a large part of the drive capacity, exceeding the limit of GitHub (2GB), they have to be uploaded to Google Drive, here is the link **(In addition, the usage attentions are at the end of this article)**:
-
 #### INFO:
 
 (1) Our UE5 File name is originally called TGPtestingUE5, not the "Of No Bounds", and to change the name of the UE project could be troublesome, so you will see the Folder and file named TGPtestingUE5
